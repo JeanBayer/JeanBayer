@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✨, I'm Jean Bayer</h1>
-<h3 align="center">A passionate Full-stack developer from Colombia</h3>
+<h3 align="center">A passionate Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanbayer&label=Profile%20views&color=0e75b6&style=flat" alt="jeanbayer" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JeanBayer](https://github.com/JeanBayer)
 
-- 📫 How to reach me **a6@gmail.com**
+- 📫 How to reach me **jhanbayer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
