@@ -1,4 +1,7 @@
 <h1 align="center">Hi ✨, I'm Jean Bayer</h1>
+
+<a href="https://app.daily.dev/jeanbayer"><img src="https://api.daily.dev/devcards/c6581bd73f7e4bb183e52c2350dc3522.png?r=77p" width="400" alt="Jhan Bayer's Dev Card"/></a>
+
 <h3 align="center">A passionate Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanbayer&label=Profile%20views&color=0e75b6&style=flat" alt="jeanbayer" /> </p>
