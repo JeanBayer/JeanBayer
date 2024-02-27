@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanbayer" alt="jeanbayer" /></a> </p>
 
-- 🌱 I’m currently improve my skills in **React** **Microfrontends** **Azure**
+- 🌱 I’m currently improve my skills in **React** - **Microfrontends** - **Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JeanBayer](https://github.com/JeanBayer)
 
