@@ -2,21 +2,57 @@
 
 <a href="https://app.daily.dev/jeanbayer"><img src="https://api.daily.dev/devcards/v2/UoTjkaaWtbzMdsMsWqMFv.png?r=zi0&type=wide" width="652" alt="Jhan Bayer's Dev Card"/></a>
 
-<h3 align="center">A passionate Technical Lead</h3>
+<h3 align="center">Technical Lead | Software Engineer | Team Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanbayer&label=Profile%20views&color=0e75b6&style=flat" alt="jeanbayer" /> </p>
+<p align="center"><em>Passionate about technology, leadership, and delivering value through modern architectures and agile methodologies.</em></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanbayer" alt="jeanbayer" /></a> </p>
+---
 
-- 🌱 I’m currently improve my skills in **React** - **Microfrontends** - **Azure**
+## 📝 About Me
+
+- Technical Lead at Banco BCI, applying modern architectures (Microfrontends) and agile methodologies (Scrum) to solve business and user needs.
+- Strong focus on team leadership, communication, and strategic planning to drive project success and company growth.
+- Experienced in leading technical teams, improving productivity and quality, and implementing initiatives to optimize teamwork and reduce production incidents.
+- Open to new challenges and passionate about continuous learning and technology.
+
+## 💼 Professional Experience
+
+**Technical Lead**  
+Banco de Crédito e Inversiones (BCI) — 2024 - Present  
+- Leading the design and implementation of solutions and technical leadership for the BCI+ program, focusing on value delivery and team empowerment.
+- Improving the quality of deliverables and productivity by refining processes and fostering a collaborative environment.
+
+**Software Engineer**  
+Banco de Crédito e Inversiones (BCI) — 2022 - 2024  
+- Led and developed the retirement administrator functionality, increasing program profitability.
+- Developed features to reduce incidents and improve user experience.
+
+**Software Engineer**  
+DEVoluzion — 2022  
+- Led the creation of an internal web system, mentoring the team and establishing best practices for new collaborators.
+
+**Software Engineer**  
+Voxcom SA — 2021  
+- Developed solutions for various client projects, adapting quickly to new stacks and requirements.
+
+**Freelance Software Developer**  
+2019 - Present  
+- Helped small businesses automate and optimize internal processes.
+
+## 🛠️ Skills
+
+**Technical:** React, Microfrontends, Azure, JavaScript, Node.js, Express, MySQL, Flutter, Git, Heroku, Postman, Figma, Bootstrap, CSS3
+
+**Soft:** Leadership, Communication, Strategic Planning, Team Management, Problem Solving, Agile Methodologies (Scrum)
+
+---
 
 - 👨‍💻 All of my projects are available at [https://github.com/JeanBayer](https://github.com/JeanBayer)
-
-- 📫 How to reach me **jhanbayer@gmail.com**
+- 📫 How to reach me: **jhanbayer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jhan-bayer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhan-carlos-mora-bayer-295230135/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jhan-bayer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
