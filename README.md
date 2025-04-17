@@ -15,29 +15,16 @@
 - Experienced in leading technical teams, improving productivity and quality, and implementing initiatives to optimize teamwork and reduce production incidents.
 - Open to new challenges and passionate about continuous learning and technology.
 
-## 💼 Professional Experience
-
 **Technical Lead**  
 Banco de Crédito e Inversiones (BCI) — 2024 - Present  
-- Leading the design and implementation of solutions and technical leadership for the BCI+ program, focusing on value delivery and team empowerment.
+- Leading the design and implementation of solutions and technical leadership for the Loyalty program, focusing on value delivery and team empowerment.
 - Improving the quality of deliverables and productivity by refining processes and fostering a collaborative environment.
 
 **Software Engineer**  
 Banco de Crédito e Inversiones (BCI) — 2022 - 2024  
-- Led and developed the retirement administrator functionality, increasing program profitability.
+- Lead and developed the retirement administrator functionality, increasing program profitability.
 - Developed features to reduce incidents and improve user experience.
 
-**Software Engineer**  
-DEVoluzion — 2022  
-- Led the creation of an internal web system, mentoring the team and establishing best practices for new collaborators.
-
-**Software Engineer**  
-Voxcom SA — 2021  
-- Developed solutions for various client projects, adapting quickly to new stacks and requirements.
-
-**Freelance Software Developer**  
-2019 - Present  
-- Helped small businesses automate and optimize internal processes.
 
 ## 🛠️ Skills
 
